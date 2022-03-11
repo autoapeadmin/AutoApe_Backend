@@ -1,0 +1,62 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-09 02:14:42 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-09 02:42:47 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-11-09 02:44:02 --> 404 Page Not Found: Webadmin/Index.action
+ERROR - 2021-11-09 03:26:20 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-09 03:28:19 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-11-09 05:20:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-09 09:25:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-09 10:23:17 --> 404 Page Not Found: Actuator/health
+ERROR - 2021-11-09 10:55:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-09 11:13:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-09 11:39:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-09 13:20:53 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-09 13:20:55 --> 404 Page Not Found: Vendor/.env
+ERROR - 2021-11-09 13:20:57 --> 404 Page Not Found: Storage/.env
+ERROR - 2021-11-09 13:20:59 --> 404 Page Not Found: Public/.env
+ERROR - 2021-11-09 13:21:07 --> 404 Page Not Found: Info/index
+ERROR - 2021-11-09 13:28:12 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-09 13:32:02 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-09 13:32:04 --> 404 Page Not Found: Vendor/.env
+ERROR - 2021-11-09 13:32:07 --> 404 Page Not Found: Storage/.env
+ERROR - 2021-11-09 13:32:09 --> 404 Page Not Found: Public/.env
+ERROR - 2021-11-09 13:32:17 --> 404 Page Not Found: Info/index
+ERROR - 2021-11-09 14:03:58 --> 404 Page Not Found: Analytics/jbips
+ERROR - 2021-11-09 14:51:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-09 15:46:30 --> 404 Page Not Found: Sitecore/shell
+ERROR - 2021-11-09 16:43:15 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-09 17:00:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-09 17:24:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-09 17:42:13 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-09 18:23:46 --> 404 Page Not Found: About/wp-includes
+ERROR - 2021-11-09 18:23:46 --> 404 Page Not Found: About/xmlrpc.php
+ERROR - 2021-11-09 18:23:47 --> 404 Page Not Found: About/blog
+ERROR - 2021-11-09 18:23:47 --> 404 Page Not Found: About/web
+ERROR - 2021-11-09 18:23:47 --> 404 Page Not Found: About/wordpress
+ERROR - 2021-11-09 18:23:48 --> 404 Page Not Found: About/website
+ERROR - 2021-11-09 18:23:48 --> 404 Page Not Found: About/wp
+ERROR - 2021-11-09 18:23:48 --> 404 Page Not Found: About/news
+ERROR - 2021-11-09 18:23:48 --> 404 Page Not Found: About/2018
+ERROR - 2021-11-09 18:23:49 --> 404 Page Not Found: About/2019
+ERROR - 2021-11-09 18:23:49 --> 404 Page Not Found: About/shop
+ERROR - 2021-11-09 18:23:49 --> 404 Page Not Found: About/wp1
+ERROR - 2021-11-09 18:23:49 --> 404 Page Not Found: About/test
+ERROR - 2021-11-09 18:23:50 --> 404 Page Not Found: About/media
+ERROR - 2021-11-09 18:23:50 --> 404 Page Not Found: About/wp2
+ERROR - 2021-11-09 18:23:50 --> 404 Page Not Found: About/site
+ERROR - 2021-11-09 18:23:50 --> 404 Page Not Found: About/cms
+ERROR - 2021-11-09 18:23:50 --> 404 Page Not Found: About/sito
+ERROR - 2021-11-09 18:24:59 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-09 19:27:21 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-09 21:26:19 --> 404 Page Not Found: Analytics/jbips
+ERROR - 2021-11-09 21:27:21 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-09 22:08:10 --> Severity: error --> Exception: Expired API Key provided: sk_test_BW******************8zKq /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-11-09 22:09:48 --> Severity: error --> Exception: Expired API Key provided: sk_test_BW******************8zKq /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-11-09 22:13:02 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: /usr/lib64/php/modules/php_openssl.dll (/usr/lib64/php/modules/php_openssl.dll: cannot open shared object file: No such file or directory), /usr/lib64/php/modules/php_openssl.dll.so (/usr/lib64/php/modules/php_openssl.dll.so: cannot open shared object file: No such file or directory)) Unknown 0
+ERROR - 2021-11-09 22:38:43 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-09 22:50:27 --> 404 Page Not Found: ReportServer/index
+ERROR - 2021-11-09 23:00:18 --> 404 Page Not Found: Login/index
+ERROR - 2021-11-09 23:28:05 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-09 23:53:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-09 23:53:11 --> 404 Page Not Found: About/js

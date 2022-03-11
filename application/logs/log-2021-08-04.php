@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-04 00:24:09 --> 404 Page Not Found: Giris/index
+ERROR - 2021-08-04 01:02:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 01:02:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 01:02:55 --> 404 Page Not Found: About/js
+ERROR - 2021-08-04 01:03:00 --> 404 Page Not Found: About/js
+ERROR - 2021-08-04 01:03:22 --> 404 Page Not Found: Examplecom/index
+ERROR - 2021-08-04 01:29:20 --> 404 Page Not Found: Env/index
+ERROR - 2021-08-04 02:25:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 03:17:00 --> 404 Page Not Found: About/js
+ERROR - 2021-08-04 05:44:59 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-08-04 05:58:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 07:58:21 --> 404 Page Not Found: About/magnific-popup.css
+ERROR - 2021-08-04 07:58:25 --> 404 Page Not Found: About/js
+ERROR - 2021-08-04 07:58:27 --> 404 Page Not Found: About/owl.carousel.min.css
+ERROR - 2021-08-04 08:59:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 10:00:38 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-08-04 12:55:50 --> 404 Page Not Found: Env/index
+ERROR - 2021-08-04 12:55:53 --> 404 Page Not Found: Env/index
+ERROR - 2021-08-04 13:01:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 13:01:40 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-08-04 13:01:43 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-08-04 14:03:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 14:03:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 14:03:54 --> 404 Page Not Found: About/js
+ERROR - 2021-08-04 16:49:21 --> 404 Page Not Found: Env/index
+ERROR - 2021-08-04 16:56:18 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-08-04 17:22:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-08-04 17:47:51 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-08-04 20:50:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 21:25:02 --> 404 Page Not Found: Robotstxt/index

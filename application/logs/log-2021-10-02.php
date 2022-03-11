@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-02 00:24:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 02:59:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 03:47:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 04:18:48 --> 404 Page Not Found: About/js
+ERROR - 2021-10-02 05:47:42 --> 404 Page Not Found: Actuator/health
+ERROR - 2021-10-02 06:03:27 --> 404 Page Not Found: About/font-awesome.min.css
+ERROR - 2021-10-02 06:03:31 --> 404 Page Not Found: About/js
+ERROR - 2021-10-02 06:03:35 --> 404 Page Not Found: About/animated-headline.css
+ERROR - 2021-10-02 06:03:36 --> 404 Page Not Found: About/animate.css
+ERROR - 2021-10-02 06:03:37 --> 404 Page Not Found: About/magnific-popup.css
+ERROR - 2021-10-02 06:03:38 --> 404 Page Not Found: About/font-icons.css
+ERROR - 2021-10-02 06:03:39 --> 404 Page Not Found: About/magnific-popup.css
+ERROR - 2021-10-02 06:25:56 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-02 07:18:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 07:19:34 --> 404 Page Not Found: Epa/scripts
+ERROR - 2021-10-02 08:03:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 08:49:20 --> 404 Page Not Found: About/js
+ERROR - 2021-10-02 09:44:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 11:35:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 12:41:01 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-02 13:55:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 14:17:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 17:04:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 19:52:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-02 22:22:12 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-02 22:24:13 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-02 22:29:07 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-10-02 23:51:13 --> 404 Page Not Found: Ecp/Current

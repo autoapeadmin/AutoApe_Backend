@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-02 04:12:41 --> 404 Page Not Found: Console/index
+ERROR - 2021-12-02 05:10:09 --> 404 Page Not Found: Env/index
+ERROR - 2021-12-02 05:26:57 --> 404 Page Not Found: Autodiscover/Autodiscover.xml
+ERROR - 2021-12-02 06:02:40 --> 404 Page Not Found: _ignition/execute-solution
+ERROR - 2021-12-02 06:24:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-02 07:55:49 --> 404 Page Not Found: Env/index
+ERROR - 2021-12-02 09:08:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-12-02 09:08:20 --> 404 Page Not Found: Css/pe-icon-7-stroke.css
+ERROR - 2021-12-02 09:08:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-02 12:52:28 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-12-02 12:57:05 --> 404 Page Not Found: Env/index
+ERROR - 2021-12-02 14:52:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-02 14:54:35 --> 404 Page Not Found: Env/index
+ERROR - 2021-12-02 15:17:32 --> 404 Page Not Found: Env/index
+ERROR - 2021-12-02 17:41:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-12-02 19:13:50 --> 404 Page Not Found: Env/index
+ERROR - 2021-12-02 19:43:31 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-12-02 19:45:33 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-12-02 19:48:10 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-12-02 19:50:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-02 20:08:29 --> 404 Page Not Found: System_apiphp/index
+ERROR - 2021-12-02 20:08:31 --> 404 Page Not Found: C/version.js
+ERROR - 2021-12-02 20:08:34 --> 404 Page Not Found: Streaming/clients_live.php
+ERROR - 2021-12-02 20:08:36 --> 404 Page Not Found: Stalker_portal/c
+ERROR - 2021-12-02 20:08:38 --> 404 Page Not Found: Stream/live.php
+ERROR - 2021-12-02 20:08:40 --> 404 Page Not Found: Flu/403.html
+ERROR - 2021-12-02 20:08:43 --> 404 Page Not Found: Gemini-iptv/vod.json
+ERROR - 2021-12-02 20:08:44 --> 404 Page Not Found: Gemini-iptv/get_prc.php
+ERROR - 2021-12-02 21:55:33 --> 404 Page Not Found: Robotstxt/index

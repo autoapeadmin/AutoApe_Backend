@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-05 00:22:15 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-10-05 00:24:09 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-05 00:24:42 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-05 01:19:50 --> 404 Page Not Found: TelerikWebUIWebResourceaxd/index
+ERROR - 2021-10-05 01:57:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-05 02:21:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-05 04:41:45 --> 404 Page Not Found: Remote/login
+ERROR - 2021-10-05 05:00:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-05 11:56:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-05 12:41:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-05 12:41:35 --> 404 Page Not Found: About/font-awesome.min.css
+ERROR - 2021-10-05 12:41:36 --> 404 Page Not Found: About/owl.carousel.min.css
+ERROR - 2021-10-05 12:41:37 --> 404 Page Not Found: About/animated-headline.css
+ERROR - 2021-10-05 12:41:38 --> 404 Page Not Found: About/bootstrap.min.css
+ERROR - 2021-10-05 12:41:39 --> 404 Page Not Found: About/js
+ERROR - 2021-10-05 12:41:39 --> 404 Page Not Found: About/magnific-popup.css
+ERROR - 2021-10-05 12:41:41 --> 404 Page Not Found: About/animate.css
+ERROR - 2021-10-05 12:41:42 --> 404 Page Not Found: About/font-icons.css
+ERROR - 2021-10-05 12:41:43 --> 404 Page Not Found: About/magnific-popup.css
+ERROR - 2021-10-05 12:48:28 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-05 13:47:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-05 14:55:18 --> 404 Page Not Found: Aaa9/index
+ERROR - 2021-10-05 14:55:20 --> 404 Page Not Found: Aab9/index
+ERROR - 2021-10-05 14:55:27 --> 404 Page Not Found: Aaa9/index
+ERROR - 2021-10-05 14:55:29 --> 404 Page Not Found: Aab9/index
+ERROR - 2021-10-05 15:03:58 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-05 19:00:04 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-05 21:09:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-05 22:02:13 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-05 22:41:13 --> 404 Page Not Found: ReportServer/index
+ERROR - 2021-10-05 23:55:36 --> 404 Page Not Found: Ecp/Current

@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-29 01:07:20 --> 404 Page Not Found: System_apiphp/index
+ERROR - 2021-10-29 01:07:22 --> 404 Page Not Found: C/version.js
+ERROR - 2021-10-29 01:07:25 --> 404 Page Not Found: Streaming/clients_live.php
+ERROR - 2021-10-29 01:07:27 --> 404 Page Not Found: Stalker_portal/c
+ERROR - 2021-10-29 01:07:29 --> 404 Page Not Found: Stream/live.php
+ERROR - 2021-10-29 01:07:31 --> 404 Page Not Found: Flu/403.html
+ERROR - 2021-10-29 01:48:41 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-10-29 02:02:02 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-29 03:15:24 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-29 03:19:25 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-10-29 08:35:50 --> 404 Page Not Found: api/Jsonws/invoke
+ERROR - 2021-10-29 08:35:56 --> 404 Page Not Found: Console/index
+ERROR - 2021-10-29 08:35:58 --> 404 Page Not Found: Autodiscover/Autodiscover.xml
+ERROR - 2021-10-29 08:35:59 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2021-10-29 08:44:31 --> 404 Page Not Found: Actuator/health
+ERROR - 2021-10-29 13:12:47 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-10-29 13:36:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-29 13:36:16 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-10-29 13:36:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-29 14:53:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-29 14:53:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-29 16:12:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-29 16:12:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-29 16:13:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-29 16:56:37 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-29 17:23:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-29 17:31:12 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-29 17:36:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-29 18:02:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-29 20:28:56 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-29 21:27:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-29 23:49:01 --> 404 Page Not Found: Env/index

@@ -1,0 +1,206 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-27 00:05:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 00:05:59 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2021-06-27 00:07:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 00:07:14 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2021-06-27 00:14:05 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-27 00:17:39 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 00:19:50 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-27 00:34:43 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2021-06-27 00:55:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 01:12:11 --> 404 Page Not Found: Config/getuser
+ERROR - 2021-06-27 01:15:46 --> 404 Page Not Found: WebApp/summary
+ERROR - 2021-06-27 01:29:57 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 02:45:04 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 03:09:01 --> 404 Page Not Found: WebApp/viewproperty
+ERROR - 2021-06-27 03:15:37 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 03:15:37 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 03:23:20 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 03:23:20 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 03:23:25 --> 404 Page Not Found: Plugins/ajaxloader.gif
+ERROR - 2021-06-27 03:23:25 --> 404 Page Not Found: Plugins/listicons.png
+ERROR - 2021-06-27 03:23:25 --> 404 Page Not Found: Plugins/messages.png
+ERROR - 2021-06-27 03:23:25 --> 404 Page Not Found: Plugins/messages_dark.png
+ERROR - 2021-06-27 03:23:25 --> 404 Page Not Found: Plugins/filetypes.png
+ERROR - 2021-06-27 03:23:25 --> 404 Page Not Found: Plugins/addcontact.png
+ERROR - 2021-06-27 03:23:25 --> 404 Page Not Found: Plugins/buttons.png
+ERROR - 2021-06-27 03:23:25 --> 404 Page Not Found: Plugins/ajaxloader_dark.gif
+ERROR - 2021-06-27 03:23:26 --> 404 Page Not Found: Plugins/quota.png
+ERROR - 2021-06-27 03:23:26 --> 404 Page Not Found: Plugins/selector.png
+ERROR - 2021-06-27 03:23:26 --> 404 Page Not Found: Plugins/splitter.png
+ERROR - 2021-06-27 03:23:26 --> 404 Page Not Found: Plugins/watermark.jpg
+ERROR - 2021-06-27 03:46:01 --> 404 Page Not Found: Editor/filemanager
+ERROR - 2021-06-27 03:47:10 --> 404 Page Not Found: Boaform/admin
+ERROR - 2021-06-27 04:02:16 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 04:07:31 --> 404 Page Not Found: WebApp/summary
+ERROR - 2021-06-27 04:15:45 --> 404 Page Not Found: Boaform/admin
+ERROR - 2021-06-27 04:47:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 05:15:55 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 05:21:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 05:21:11 --> 404 Page Not Found: Admin/forgotpasswordajax
+ERROR - 2021-06-27 05:56:34 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-27 06:13:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 06:29:38 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 07:41:37 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 08:25:41 --> 404 Page Not Found: GponForm/diag_Form
+ERROR - 2021-06-27 08:42:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 08:53:47 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 09:20:22 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-06-27 09:26:00 --> 404 Page Not Found: Config/getuser
+ERROR - 2021-06-27 09:54:26 --> 404 Page Not Found: WebApp/agentList
+ERROR - 2021-06-27 10:04:38 --> 404 Page Not Found: WebApp/career
+ERROR - 2021-06-27 10:07:17 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 10:18:39 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 10:18:39 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 11:21:00 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 11:31:50 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 11:31:51 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/ajaxloader_dark.gif
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/addcontact.png
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/filetypes.png
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/ajaxloader.gif
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/listicons.png
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/buttons.png
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/messages_dark.png
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/quota.png
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/selector.png
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/messages.png
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/splitter.png
+ERROR - 2021-06-27 11:31:53 --> 404 Page Not Found: Plugins/watermark.jpg
+ERROR - 2021-06-27 12:29:10 --> 404 Page Not Found: WebApp/agent
+ERROR - 2021-06-27 12:30:33 --> 404 Page Not Found: Owa/index
+ERROR - 2021-06-27 12:34:56 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 13:26:37 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-27 13:48:41 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 14:14:51 --> 404 Page Not Found: Editor/editor
+ERROR - 2021-06-27 14:21:03 --> 404 Page Not Found: Images/newsiteimgs
+ERROR - 2021-06-27 14:30:02 --> 404 Page Not Found: WebApp/viewproperty
+ERROR - 2021-06-27 14:30:18 --> 404 Page Not Found: Configjson/index
+ERROR - 2021-06-27 14:30:44 --> 404 Page Not Found: Json/index
+ERROR - 2021-06-27 14:30:48 --> 404 Page Not Found: V2/_catalog
+ERROR - 2021-06-27 14:30:49 --> 404 Page Not Found: Server-status/index
+ERROR - 2021-06-27 14:30:53 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-27 14:30:57 --> 404 Page Not Found: Idx_config/index
+ERROR - 2021-06-27 14:30:59 --> 404 Page Not Found: api/Search/index
+ERROR - 2021-06-27 15:04:23 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 15:05:56 --> 404 Page Not Found: WebApp/contact
+ERROR - 2021-06-27 15:15:15 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 15:15:15 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 15:20:09 --> 404 Page Not Found: Boaform/admin
+ERROR - 2021-06-27 15:32:19 --> 404 Page Not Found: WebApp/agentsearch
+ERROR - 2021-06-27 15:42:22 --> 404 Page Not Found: Images/newsiteimgs
+ERROR - 2021-06-27 16:07:06 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 16:07:06 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 16:07:08 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 16:07:08 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 16:07:09 --> 404 Page Not Found: Plugins/ajaxloader.gif
+ERROR - 2021-06-27 16:07:09 --> 404 Page Not Found: Plugins/ajaxloader_dark.gif
+ERROR - 2021-06-27 16:07:09 --> 404 Page Not Found: Plugins/buttons.png
+ERROR - 2021-06-27 16:07:09 --> 404 Page Not Found: Plugins/addcontact.png
+ERROR - 2021-06-27 16:07:09 --> 404 Page Not Found: Plugins/filetypes.png
+ERROR - 2021-06-27 16:07:10 --> 404 Page Not Found: Plugins/listicons.png
+ERROR - 2021-06-27 16:07:10 --> 404 Page Not Found: Plugins/messages_dark.png
+ERROR - 2021-06-27 16:07:10 --> 404 Page Not Found: Plugins/splitter.png
+ERROR - 2021-06-27 16:07:10 --> 404 Page Not Found: Plugins/watermark.jpg
+ERROR - 2021-06-27 16:07:10 --> 404 Page Not Found: Plugins/messages.png
+ERROR - 2021-06-27 16:07:10 --> 404 Page Not Found: Plugins/quota.png
+ERROR - 2021-06-27 16:07:10 --> 404 Page Not Found: Plugins/selector.png
+ERROR - 2021-06-27 16:11:44 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 16:11:45 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 16:16:34 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 16:16:35 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 16:16:38 --> 404 Page Not Found: Plugins/ajaxloader.gif
+ERROR - 2021-06-27 16:16:38 --> 404 Page Not Found: Plugins/buttons.png
+ERROR - 2021-06-27 16:16:40 --> 404 Page Not Found: Plugins/ajaxloader_dark.gif
+ERROR - 2021-06-27 16:16:40 --> 404 Page Not Found: Plugins/addcontact.png
+ERROR - 2021-06-27 16:16:40 --> 404 Page Not Found: Plugins/filetypes.png
+ERROR - 2021-06-27 16:16:40 --> 404 Page Not Found: Plugins/listicons.png
+ERROR - 2021-06-27 16:16:40 --> 404 Page Not Found: Plugins/messages.png
+ERROR - 2021-06-27 16:16:40 --> 404 Page Not Found: Plugins/messages_dark.png
+ERROR - 2021-06-27 16:16:41 --> 404 Page Not Found: Plugins/quota.png
+ERROR - 2021-06-27 16:16:41 --> 404 Page Not Found: Plugins/selector.png
+ERROR - 2021-06-27 16:16:44 --> 404 Page Not Found: Plugins/watermark.jpg
+ERROR - 2021-06-27 16:16:45 --> 404 Page Not Found: Plugins/splitter.png
+ERROR - 2021-06-27 16:17:11 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 16:43:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 17:04:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 17:13:37 --> 404 Page Not Found: Fileupload/server
+ERROR - 2021-06-27 17:28:49 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 17:56:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-27 18:41:08 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 19:18:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 19:20:05 --> 404 Page Not Found: WebApp/advertisewithus
+ERROR - 2021-06-27 19:33:27 --> 404 Page Not Found: About/js
+ERROR - 2021-06-27 19:34:14 --> 404 Page Not Found: WebApp/agent
+ERROR - 2021-06-27 19:54:01 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 20:04:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 20:16:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 20:16:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 20:16:38 --> 404 Page Not Found: WebApp/about
+ERROR - 2021-06-27 20:21:25 --> 404 Page Not Found: Manager/text
+ERROR - 2021-06-27 20:49:31 --> 404 Page Not Found: Blog/index
+ERROR - 2021-06-27 20:49:31 --> 404 Page Not Found: Wp/index
+ERROR - 2021-06-27 20:49:31 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-06-27 20:49:31 --> 404 Page Not Found: New/index
+ERROR - 2021-06-27 20:49:31 --> 404 Page Not Found: Old/index
+ERROR - 2021-06-27 20:49:32 --> 404 Page Not Found: Test/index
+ERROR - 2021-06-27 20:49:32 --> 404 Page Not Found: Main/index
+ERROR - 2021-06-27 20:49:32 --> 404 Page Not Found: Site/index
+ERROR - 2021-06-27 20:49:32 --> 404 Page Not Found: Backup/index
+ERROR - 2021-06-27 20:49:33 --> 404 Page Not Found: Demo/index
+ERROR - 2021-06-27 20:49:33 --> 404 Page Not Found: Home/index
+ERROR - 2021-06-27 20:49:33 --> 404 Page Not Found: Tmp/index
+ERROR - 2021-06-27 20:49:33 --> 404 Page Not Found: Cms/index
+ERROR - 2021-06-27 20:49:34 --> 404 Page Not Found: Dev/index
+ERROR - 2021-06-27 20:49:34 --> 404 Page Not Found: Old-wp/index
+ERROR - 2021-06-27 20:49:34 --> 404 Page Not Found: Web/index
+ERROR - 2021-06-27 20:49:34 --> 404 Page Not Found: Old-site/index
+ERROR - 2021-06-27 20:49:34 --> 404 Page Not Found: Temp/index
+ERROR - 2021-06-27 20:49:35 --> 404 Page Not Found: 2018/index
+ERROR - 2021-06-27 20:49:35 --> 404 Page Not Found: 2019/index
+ERROR - 2021-06-27 20:49:35 --> 404 Page Not Found: Bk/index
+ERROR - 2021-06-27 20:49:35 --> 404 Page Not Found: Wp1/index
+ERROR - 2021-06-27 20:49:36 --> 404 Page Not Found: Wp2/index
+ERROR - 2021-06-27 20:49:36 --> 404 Page Not Found: V1/index
+ERROR - 2021-06-27 20:49:36 --> 404 Page Not Found: V2/index
+ERROR - 2021-06-27 20:49:36 --> 404 Page Not Found: Bak/index
+ERROR - 2021-06-27 20:49:36 --> 404 Page Not Found: Install/index
+ERROR - 2021-06-27 20:49:37 --> 404 Page Not Found: 2020/index
+ERROR - 2021-06-27 20:49:37 --> 404 Page Not Found: New-site/index
+ERROR - 2021-06-27 21:07:05 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 21:12:24 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:24 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:25 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:26 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:27 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:28 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:28 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:29 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:30 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:30 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:38 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:12:41 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:18:29 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-27 21:18:31 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-27 21:24:33 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:32:13 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:32:49 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:34:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-27 21:35:41 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 21:35:47 --> Severity: error --> Exception: The Checkout Session's total amount due must add up to at least $0.50 nzd /var/www/html/application/libraries/stripe-php/lib/Exception/ApiErrorException.php 38
+ERROR - 2021-06-27 22:05:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 22:18:20 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 22:18:20 --> 404 Page Not Found: System/app
+ERROR - 2021-06-27 22:19:35 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 22:35:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 22:35:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 22:36:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-27 22:51:19 --> 404 Page Not Found: Manager/html
+ERROR - 2021-06-27 23:02:43 --> 404 Page Not Found: Manager/html
+ERROR - 2021-06-27 23:31:16 --> 404 Page Not Found: Newagentlogin/oracle.php
+ERROR - 2021-06-27 23:45:12 --> 404 Page Not Found: PhpMyAdmin/scripts
+ERROR - 2021-06-27 23:45:13 --> 404 Page Not Found: Phpmyadmin/scripts
+ERROR - 2021-06-27 23:45:13 --> 404 Page Not Found: Pma/scripts
+ERROR - 2021-06-27 23:45:13 --> 404 Page Not Found: Myadmin/scripts
+ERROR - 2021-06-27 23:45:14 --> 404 Page Not Found: MyAdmin/scripts

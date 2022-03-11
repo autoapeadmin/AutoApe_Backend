@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-04 02:10:50 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-04 02:30:26 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-11-04 02:30:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 02:33:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 02:45:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 03:19:43 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-11-04 03:21:04 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-04 05:06:12 --> 404 Page Not Found: Azenvnet/index
+ERROR - 2021-11-04 05:16:13 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-11-04 05:16:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 05:16:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 05:16:24 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-11-04 08:56:03 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-04 09:10:16 --> 404 Page Not Found: Actuator/health
+ERROR - 2021-11-04 09:15:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 11:17:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 13:21:32 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-04 16:36:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 16:36:09 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-11-04 16:36:11 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2021-11-04 17:39:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-04 20:00:31 --> 404 Page Not Found: Nice%20ports%2C/Tri%6Eity.txt%2ebak
+ERROR - 2021-11-04 20:00:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-04 20:02:56 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-04 20:43:42 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-04 22:11:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 22:59:49 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-04 23:24:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 23:59:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-04 23:59:41 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-11-04 23:59:42 --> 404 Page Not Found: Well-known/security.txt

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-15 01:31:33 --> 404 Page Not Found: Mgmt/tm
+ERROR - 2021-11-15 02:36:48 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-15 03:06:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-15 04:11:06 --> 404 Page Not Found: Actuator/health
+ERROR - 2021-11-15 06:45:20 --> 404 Page Not Found: api/Jsonws/invoke
+ERROR - 2021-11-15 07:13:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-15 07:21:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-15 07:25:23 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-15 07:42:50 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-11-15 07:46:01 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-15 09:43:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-15 09:53:51 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-15 09:58:01 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-11-15 10:01:50 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-15 11:30:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-15 12:43:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-15 13:21:31 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2021-11-15 14:25:29 --> 404 Page Not Found: Console/index
+ERROR - 2021-11-15 15:10:18 --> 404 Page Not Found: Bag2/index
+ERROR - 2021-11-15 15:11:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-15 15:11:16 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-11-15 15:27:06 --> 404 Page Not Found: Autodiscover/Autodiscover.xml
+ERROR - 2021-11-15 16:24:44 --> 404 Page Not Found: Sitecore/shell
+ERROR - 2021-11-15 16:24:45 --> 404 Page Not Found: Sitecore/shell
+ERROR - 2021-11-15 16:26:50 --> 404 Page Not Found: _ignition/execute-solution
+ERROR - 2021-11-15 17:50:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-15 18:05:15 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-11-15 19:04:29 --> 404 Page Not Found: Analytics/jbips
+ERROR - 2021-11-15 19:04:29 --> 404 Page Not Found: Analytics/jbips
+ERROR - 2021-11-15 19:44:47 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-15 20:05:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-15 20:05:50 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-11-15 20:05:51 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2021-11-15 22:05:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-15 22:57:28 --> 404 Page Not Found: Owa/auth

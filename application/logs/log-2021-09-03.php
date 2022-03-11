@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-03 00:32:32 --> 404 Page Not Found: Env/index
+ERROR - 2021-09-03 02:24:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-03 03:23:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-03 04:09:15 --> 404 Page Not Found: Env/index
+ERROR - 2021-09-03 04:28:38 --> 404 Page Not Found: Autoexpoconz:80/index
+ERROR - 2021-09-03 04:47:27 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-09-03 05:45:35 --> 404 Page Not Found: Env/index
+ERROR - 2021-09-03 05:46:29 --> 404 Page Not Found: Icanhazipcom/index
+ERROR - 2021-09-03 06:10:32 --> 404 Page Not Found: About/wp-includes
+ERROR - 2021-09-03 06:10:32 --> 404 Page Not Found: About/xmlrpc.php
+ERROR - 2021-09-03 06:10:33 --> 404 Page Not Found: About/blog
+ERROR - 2021-09-03 06:10:33 --> 404 Page Not Found: About/web
+ERROR - 2021-09-03 06:10:34 --> 404 Page Not Found: About/wordpress
+ERROR - 2021-09-03 06:10:34 --> 404 Page Not Found: About/website
+ERROR - 2021-09-03 06:10:34 --> 404 Page Not Found: About/wp
+ERROR - 2021-09-03 06:10:34 --> 404 Page Not Found: About/news
+ERROR - 2021-09-03 06:10:35 --> 404 Page Not Found: About/wp1
+ERROR - 2021-09-03 06:10:35 --> 404 Page Not Found: About/test
+ERROR - 2021-09-03 06:10:35 --> 404 Page Not Found: About/wp2
+ERROR - 2021-09-03 06:10:36 --> 404 Page Not Found: About/site
+ERROR - 2021-09-03 06:10:36 --> 404 Page Not Found: About/cms
+ERROR - 2021-09-03 06:10:36 --> 404 Page Not Found: About/sito
+ERROR - 2021-09-03 09:58:09 --> 404 Page Not Found: Env/index
+ERROR - 2021-09-03 10:36:04 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-09-03 17:58:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-09-03 21:12:15 --> 404 Page Not Found: Actuator/health
+ERROR - 2021-09-03 21:27:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-03 21:27:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-03 22:20:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-03 23:12:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-03 23:23:31 --> 404 Page Not Found: Ecp/Current

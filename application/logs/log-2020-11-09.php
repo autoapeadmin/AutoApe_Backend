@@ -1,0 +1,82 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-09 00:25:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 01:10:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-09 02:15:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 02:15:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 03:07:00 --> 404 Page Not Found: Vendor/fonts
+ERROR - 2020-11-09 03:07:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 03:07:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 03:50:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-09 04:07:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 04:40:25 --> 404 Page Not Found: Qdoozavyhtml/index
+ERROR - 2020-11-09 05:00:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 05:19:06 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 05:39:33 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 05:58:57 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 07:16:49 --> 404 Page Not Found: Portal/redlion
+ERROR - 2020-11-09 07:20:40 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 07:20:58 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 08:38:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-09 08:54:43 --> 404 Page Not Found: TP/public
+ERROR - 2020-11-09 08:54:43 --> 404 Page Not Found: TP/index.php
+ERROR - 2020-11-09 09:20:54 --> 404 Page Not Found: Css/fonts
+ERROR - 2020-11-09 09:24:26 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 09:24:42 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 09:52:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 09:53:00 --> Severity: error --> Exception: Too few arguments to function Customer_Model::selectTargetAgentList(), 1 passed in /var/www/html/application/controllers/WebApp.php on line 2319 and exactly 4 expected /var/www/html/application/models/Customer_Model.php 935
+ERROR - 2020-11-09 10:06:59 --> 404 Page Not Found: Plugins/ajaxloader.gif
+ERROR - 2020-11-09 10:46:02 --> 404 Page Not Found: Vendor/fonts
+ERROR - 2020-11-09 11:01:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 11:18:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 11:19:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 11:58:37 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 11:58:54 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 12:18:03 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 12:18:19 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 13:39:47 --> 404 Page Not Found: Config/getuser
+ERROR - 2020-11-09 13:41:42 --> 404 Page Not Found: Wwwproxy-listende/azenv.php
+ERROR - 2020-11-09 14:31:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 14:31:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 14:35:03 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 14:35:19 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 14:51:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 15:25:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 15:51:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-09 17:01:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-11-09 17:01:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-11-09 17:01:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-11-09 17:01:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-11-09 17:11:13 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-11-09 17:11:13 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-11-09 17:11:13 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-11-09 17:11:13 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-11-09 17:14:52 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 17:15:08 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 17:21:28 --> 404 Page Not Found: Hudson/index
+ERROR - 2020-11-09 18:23:35 --> 404 Page Not Found: Setupcgi/index
+ERROR - 2020-11-09 19:29:32 --> Severity: Notice --> Undefined index: SESS_CUSTOMER_AGENT /var/www/html/application/views/listaproperty.php 60
+ERROR - 2020-11-09 19:29:32 --> Severity: Notice --> Undefined index: SESS_CUSTOMER_AGENT /var/www/html/application/views/listaproperty.php 579
+ERROR - 2020-11-09 19:29:32 --> Severity: Notice --> Undefined index: SESS_CUSTOMER_AGENT /var/www/html/application/views/listaproperty.php 833
+ERROR - 2020-11-09 19:44:12 --> 404 Page Not Found: Currentsettinghtm/index
+ERROR - 2020-11-09 20:13:21 --> Severity: error --> Exception: Call to a member function find() on null /var/www/html/application/controllers/Maxauto.php 221
+ERROR - 2020-11-09 21:54:33 --> 404 Page Not Found: System_apiphp/index
+ERROR - 2020-11-09 21:54:35 --> 404 Page Not Found: System_apiphp/index
+ERROR - 2020-11-09 21:54:36 --> 404 Page Not Found: C/version.js
+ERROR - 2020-11-09 21:54:38 --> 404 Page Not Found: C/version.js
+ERROR - 2020-11-09 21:54:39 --> 404 Page Not Found: Streaming/clients_live.php
+ERROR - 2020-11-09 21:54:40 --> 404 Page Not Found: Streaming/clients_live.php
+ERROR - 2020-11-09 21:54:42 --> 404 Page Not Found: Stalker_portal/c
+ERROR - 2020-11-09 21:54:43 --> 404 Page Not Found: Stalker_portal/c
+ERROR - 2020-11-09 21:54:44 --> 404 Page Not Found: Client_area/index
+ERROR - 2020-11-09 21:54:46 --> 404 Page Not Found: Client_area/index
+ERROR - 2020-11-09 21:54:47 --> 404 Page Not Found: Stalker_portal/c
+ERROR - 2020-11-09 21:54:49 --> 404 Page Not Found: Stalker_portal/c
+ERROR - 2020-11-09 21:57:21 --> 404 Page Not Found: Vendor/fonts
+ERROR - 2020-11-09 22:29:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-09 22:36:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-09 22:37:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-09 22:39:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-09 23:03:22 --> 404 Page Not Found: GponForm/diag_Form
+ERROR - 2020-11-09 23:08:54 --> 404 Page Not Found: Owa/auth
+ERROR - 2020-11-09 23:33:55 --> 404 Page Not Found: Currentsettinghtm/index
